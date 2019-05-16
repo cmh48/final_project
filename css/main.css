@@ -13,3 +13,6 @@
     width: 350px;
     height: 200px;
 }
+.iconimg img{
+    float: left;
+}
